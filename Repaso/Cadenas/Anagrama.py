@@ -7,3 +7,4 @@ if (analizar == inversa):
     print("El anagrama es correcto")
 else:
     print("El anagrama no es correcto")
+print("hola")
