@@ -8,3 +8,4 @@ if (analizar == inversa):
 else:
     print("El anagrama no es correcto")
 print("hola")
+print("hola")
